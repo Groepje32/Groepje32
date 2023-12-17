@@ -9,6 +9,7 @@ Deze aangepaste onderzoeksvraag richt zich niet alleen op de frequentie van het 
 Dataset
 
 Bronnen
+
 We zullen Nederlandstalige boeken gebruiken uit online bibliotheken. Enkele mogelijke bronnen zijn:
 
 Google Books Ngram Viewer: Biedt frequentiegegevens van woorden in boeken.
