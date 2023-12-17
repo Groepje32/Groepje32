@@ -19,15 +19,16 @@ We willen de periode vóór 2001 vergelijken met de periode na 2001. Deze keuze 
 Taakverdeling
 
 Pablo: Code schrijven voor het vinden van associaties.
-Maria: Opmaak bestand, onderbouwen van onderzoek en alles inleveren.
-Lars: Woorden zoeken die een bepaalde emotie of associatie kunnen aantonen.
-Finn: Code schrijven voor het vinden van het woord 'neger'.
-Max: 10 teksten verzamelen van vóór 2001 & 10 teksten verzamelen van na 2001.
-Pseudocode (ruw)
 
-python
-Copy code
-import string
+Maria: Opmaak bestand, onderbouwen van onderzoek en alles inleveren.
+
+Lars: Woorden zoeken die een bepaalde emotie of associatie kunnen aantonen.
+
+Finn: Code schrijven voor het vinden van het woord 'neger'.
+
+Max: 10 teksten verzamelen van vóór 2001 & 10 teksten verzamelen van na 2001.
+
+Pseudocode (ruw)
 
 def count_specific_words(text, specific_words):
     text = text.translate(str.maketrans('', '', string.punctuation)).lower()
@@ -59,6 +60,7 @@ for word, count in word_count_positive.items():
     print(f"Aantal keer '{word}' in tekst: {count}")
 for word, count in word_count_negative.items():
     print(f"Aantal keer '{word}' in tekst: {count}")
+    
 Logboek
 
 Week 1: Onderwerp bepaald, onderzoeksvraag opgesteld en bronnen gezocht.
@@ -67,13 +69,13 @@ Week 3: Logboek en extra context toegevoegd, vragen aan docent gesteld.
 Negatieve en Positieve Associaties
 
 Negatieve Associatie
+
 Slecht, Stom, Afschuwelijk, Ondraaglijk, Vervelend, Irritant, Onaangenaam, Onaantrekkelijk, Verschrikkelijk, Onbetrouwbaar.
 Termen zoals 'Blank', 'Etniciteit', 'Exotisch', 'Gekleurd', 'Inlander', 'Halfbloed', 'Kaukasisch', 'Ontdekken', 'Oriëntaals', 'Ras', 'Slaaf' worden betwist.
+
 Positieve Associatie
+
 Liefde, Vrede, Glimlach, Hoop, Dankbaarheid, Succes, Vriendschap, Vrijheid, Creativiteit, Avontuur.
 Specifieke aandacht voor respectvol taalgebruik in de geschiedenis van negers in de Verenigde Staten.
-Inspiratie voor Tekst
-
-Inspirerende verhalen van negers in de geschiedenis van de Verenigde Staten en hun impact op politiek, kunst, wetenschap en cultuur. Belangrijke leiders zoals Martin Luther King Jr., Rosa Parks, Malcolm X, Maya Angelou, en Barack Obama.
 
 Dit ReadMe-bestand dient als leidraad voor ons onderzoek en wordt regelmatig bijgewerkt.
