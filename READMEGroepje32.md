@@ -1,6 +1,6 @@
-ReadMe-bestand: Onderzoek naar de Evolutie van het Woord 'Neger' in Literatuur
+ReadMe-bestand: Onderzoek naar de Evolutie van het Woord 'Neger' in Literatuur 
 
-Onderzoeksvraag
+In dit project is er gekeken naar boeken en teksten waar het woord 'neger' in zou kunnen voorkomen. In 2001 kwam er een suggestie om het woord 'neger' uit het woordenboek en uit teksten te schrappen. Het woord 'neger' zou haatdragend zijn en een onjuiste benaming jegens donkere personen. In dit project is daarom onderzocht of er voor 2001 meer boeken zijn verschenen waarin het woord 'neger' werd gebruikt, dan dat er na 2001 boeken zijn verschenen met het woord 'neger'. Dit project heeft de volgende onderzoeksvraag
 
 "Hoe is de context en het gebruik van het woord 'neger' in literatuur geëvolueerd in boeken gepubliceerd vóór en na de 21e eeuw, en welke veranderingen in betekenis en connotatie kunnen worden waargenomen?"
 
