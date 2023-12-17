@@ -28,6 +28,7 @@ Finn: Code schrijven voor het vinden van het woord 'neger'.
 
 Max: 10 teksten verzamelen van vóór 2001 & 10 teksten verzamelen van na 2001.
 
+
 Pseudocode (ruw)
 
 def count_specific_words(text, specific_words):
